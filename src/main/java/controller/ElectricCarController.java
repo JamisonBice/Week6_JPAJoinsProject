@@ -9,7 +9,11 @@ import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 
 import model.ElectricCar;
-
+/**
+ * @author Jamison Bice - jdbice
+ * CIS175 - Fall 2021
+ * Sep 15, 2021
+ */
 public class ElectricCarController {
 	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("Week6_JPAJoinsProject");
 	

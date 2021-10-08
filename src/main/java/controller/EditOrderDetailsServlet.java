@@ -14,7 +14,11 @@ import javax.servlet.http.HttpServletResponse;
 import model.OrderDetails;
 import model.ElectricCar;
 import model.Dealership;
-
+/**
+ * @author Jamison Bice - jdbice
+ * CIS175 - Fall 2021
+ * Sep 15, 2021
+ */
 /**
  * Servlet implementation class EditOrderDetailsServlet
  */

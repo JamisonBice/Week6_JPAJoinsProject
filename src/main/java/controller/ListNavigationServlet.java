@@ -8,7 +8,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import model.OrderDetails;
-
+/**
+ * @author Jamison Bice - jdbice
+ * CIS175 - Fall 2021
+ * Sep 15, 2021
+ */
 /**
  * Servlet implementation class ListNavigationServlet
  */

@@ -6,7 +6,11 @@ import java.sql.Date;
 import java.time.LocalDate;
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;
-
+/**
+ * @author Jamison Bice - jdbice
+ * CIS175 - Fall 2021
+ * Sep 15, 2021
+ */
 @Converter(autoApply = true)
 public class LocalDateAttributeConverter implements AttributeConverter<LocalDate, Date> {
 	@Override

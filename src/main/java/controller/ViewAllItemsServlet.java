@@ -6,7 +6,11 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+/**
+ * @author Jamison Bice - jdbice
+ * CIS175 - Fall 2021
+ * Sep 15, 2021
+ */
 /**
  * Servlet implementation class viewAllItemsServlet
  */
